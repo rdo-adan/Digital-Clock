@@ -20,7 +20,6 @@ Reference implementation: [digital_clock.py](https://github.com/rdo-adan/Digital
 - [Behavior notes & limitations](#behavior-notes--limitations)
 - [Development notes & suggested improvements](#development-notes--suggested-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -49,19 +48,12 @@ Reference implementation: [digital_clock.py](https://github.com/rdo-adan/Digital
    cd Digital-Clock
    ```
 
-2. (Optional) Create and activate a virtual environment:
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate   # macOS / Linux
-   .\.venv\Scripts\activate    # Windows
-   ```
-
-3. (Optional) Install sound/notification dependencies:
+2. (Optional) Install sound/notification dependencies:
    ```bash
    pip install numpy pygame plyer
    ```
 
-4. Run the app:
+3. Run the app:
    ```bash
    python3 digital_clock.py
    ```
