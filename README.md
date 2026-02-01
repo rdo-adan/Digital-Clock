@@ -1,7 +1,5 @@
-# Digital-Clock
-Digital clock to control your time and study routine
-````markdown name=README.md url=https://github.com/rdo-adan/Digital-Clock/blob/d84ede5fe32152f0ae2462cc808ff725484697dc/digital_clock.py
-# Clock Pro — Advanced Productivity Timer
+# Digital clock to control your time and study routine
+## Clock Pro — Advanced Productivity Timer
 
 A lightweight desktop productivity timer and clock built with Python + Tkinter.  
 Combines a clock, multiple alarms, countdown timer, stopwatch and Pomodoro workflow with tagging and persistent statistics.
@@ -193,16 +191,7 @@ When reporting bugs, include:
 
 ---
 
-## License
-
-Include a license file in the project root (e.g. MIT) or update this section to suit your chosen license.
 
 ---
 
-If you want, I can:
-- Produce this README as a ready-to-commit `README.md` file in the repository.
-- Create issues for the suggested improvements (fade implementation, alarm tolerance, tags UI).
-- Draft a small patch to implement the alarm tolerance check or complete the volume fade using `root.after`.
 
-Which would you like next?
-````
